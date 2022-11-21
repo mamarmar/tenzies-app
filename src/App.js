@@ -86,7 +86,6 @@ function App() {
       </div>
       <div className="performance-metrics">
         <p>Roll Count: {rolls}</p>
-        <p>Timer: {rolls}</p>
       </div>
       
       <button 
